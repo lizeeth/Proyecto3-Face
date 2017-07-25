@@ -1,0 +1,169 @@
+body
+{
+	margin: 0 auto;
+    background: linear-gradient( white,#d4d8e8);
+}
+
+.encabezado
+{	
+	 background: #3f5c9a;
+	 padding-top: 15px;	
+}
+.logo
+{
+	font-size: 40px;
+	color: white;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Questrial', sans-serif;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.form-iniciar-sesion
+{
+	padding-left: 60px;
+}
+.iniciar-sesion
+{
+	display: inline-block;
+    vertical-align: top;
+    font-size: 11px;
+    color: white;
+    /*margin-right: -25px;*/
+    margin-left: -30px;
+	
+
+}
+.input-encabezado
+{
+	border-radius: 0%;
+    height: 20px;
+    width: 75%;
+
+}
+.boton-encabezado
+{
+    margin-top: 20px;
+    border-radius: 0%;
+    height: 23px;  
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0px;
+    background: #4267b2;
+    color: white;
+    border-color:#29487d;
+
+
+}
+.boton-encabezado:hover
+{
+	background:#365899;
+	color: white;
+	border-color:#29487d;
+}
+.recordar-contra
+{
+	color: #9cb4d8;
+	font-size: 12px;
+	position: relative;
+    top: 5px;
+}
+.recordar-contra:hover
+{
+	color: #9cb4d8;
+}
+.descripcion-face
+{
+	font-size: 20px;
+    color: #3F5C9A;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.cuerpo-face
+{
+	background: linear-gradient( white,#d4d8e8);
+	
+}
+.nueva-cuenta
+{
+	margin-top: 15px;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+.text1
+{
+	font-size: 20px;
+    margin-top: -10px;
+    /*font-weight: bold;*/
+}
+.title-fecha-nac
+{
+	font-size: 20px;
+    /*font-weight: bold;*/
+}
+
+.fecha-nac
+{
+	height: 30px;
+    width: 60px;
+}
+.pregunta-nac
+{
+	font-size: 11px;
+	color: #365899;
+	margin-left: 15px;
+}
+.opcion-sexo
+{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.boton-abrir-cuenta
+{
+    width: 210px;
+    height: 40px;
+    color: white;
+    background: #5c9048;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border: 1px solid #3b6e22;
+}
+.boton-abrir-cuenta:hover
+{
+    background: #68a253;
+    border: 1px solid #3b6e22;
+    color: white;
+    
+}
+.condiciones-face
+{
+	margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+hr {
+    height: 1px;
+    border: 0;
+    background-color: darkgrey;;
+}
+.text-final
+{
+	font-size: 13px;
+}
+.contenedor-modal
+{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.modal-encabezado
+{
+        text-align: center;
+        color: #3f5c9a;
+}  
+
+.estilos-modal
+{
+    background: yellow;
+    color: #3f5c9a;
+}  
